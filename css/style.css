@@ -1,8 +1,18 @@
 body {
-    background-color: rgb(116, 77, 160); 
+    background-color: rgb(169, 146, 196); 
+    margin: 2%;
+    padding: 3%;
+    border: 55px black;
 }
 
 
 article {
     background-color:rgb(119, 175, 175);
 }
+
+#modificar{
+    background-color: chartreuse;
+    display: none;
+    width: 25%;
+    font-size: 14px
+    }
